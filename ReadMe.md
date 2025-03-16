@@ -7,7 +7,7 @@ This project automates the deployment of a Kubernetes control plane on AWS using
 - Automating the installation and initialization of a Kubernetes control plane via a custom user data script
 - Deploying essential add-ons (Flannel, Metrics Server, and Ingress-NGINX)
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](k8s_setup_on_aws_by_codegenitor.png)
 
 ## Table of Contents
 
