@@ -107,7 +107,7 @@ variable "codegenitor_keypair" {
 
 variable "VPC_ID" {
   description = "The VPC ID to use for the instance"
-  default     = "vpc-0c4be51003fc3c274"  # Update with your VPC ID
+  default     = "vpc-0c4be51003djks274"  # Update with your VPC ID
 }
 
 variable "volume_size" {
